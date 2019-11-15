@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dextro
+Comment=Dextro P2P Cryptocurrency
+Exec=dextro-qt %u
+Terminal=false
+Type=Application
+Icon=dextro128
+MimeType=x-scheme-handler/dextro;
+Categories=Office;Finance;
+Name[en_US]=dextro-qt.desktop
